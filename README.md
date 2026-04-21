@@ -10,7 +10,7 @@ The objective was to determine whether higher delays are driven by overall atten
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyse 4-hour delay breaches across A&E types
 - Compare walk-in vs booked attendance pathways
 - Normalise metrics to ensure fair comparison across categories
