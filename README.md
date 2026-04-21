@@ -46,5 +46,5 @@ The objective was to determine whether higher delays are driven by overall atten
 
 ---
 
-## 📂 Data Source
+## Data Source
 NHS England A&E Attendances Data (Apr 2024 – Mar 2025)
