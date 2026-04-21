@@ -19,7 +19,7 @@ It combines attendance patterns and waiting time performance to understand both 
 - Pivot Tables & Pivot Charts
 - Data visualisation & dashboard design principles
 
----
+<br><br>
 
 ## Dashboard 1: A&E Attendances
 ![A&E Attendances Dashboard](ae-attendances-dashboard.png)
