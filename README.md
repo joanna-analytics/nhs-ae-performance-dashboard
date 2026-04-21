@@ -1,6 +1,6 @@
-# 📊 A&E 4-Hour Delays Dashboard (NHS England)
+# A&E 4-Hour Delays Dashboard (NHS England)
 
-## 🖼 Dashboard Preview
+## Dashboard Preview
 ![Dashboard](ae-delays-dashboard.png)
 
 
@@ -18,7 +18,7 @@ The objective was to determine whether higher delays are driven by overall atten
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Microsoft Excel  
 - Power Query (data cleaning & transformation)  
 - Pivot Tables & Pivot Charts  
@@ -26,7 +26,7 @@ The objective was to determine whether higher delays are driven by overall atten
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 - Interactive slicers:
   - Region
   - Season
@@ -37,7 +37,7 @@ The objective was to determine whether higher delays are driven by overall atten
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 - Type 1 A&E shows significantly higher delay rates (~41%)
 - Type 2 and Other departments have much lower delay rates (~3–4%)
 - Differences persist even after adjusting for attendance volume
